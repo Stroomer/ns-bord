@@ -1,1 +1,1 @@
-alert('ik ben een extern script!');
+//alert('ik ben een extern script!');
